@@ -110,3 +110,24 @@
   width: 800px;
   justify-content: flex-end;
 }
+/* section-2 */
+
+/* section-3 */
+.section-3 {
+  display: flex;
+  width: 800px;
+  justify-content: flex-end;
+}
+/* section-3 */
+
+/* section-4 */
+.main-4 {
+  background-color: #d3d3d3;
+}
+
+.box-xl {
+  width: 800px;
+  height: 700px;
+  background-color: #228b22;
+  border: 2px dashed black;
+}
