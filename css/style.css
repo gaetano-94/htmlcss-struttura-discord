@@ -6,6 +6,7 @@
 }
 /* Reset */
 
+/* HEADER */
 /* header-top */
 .header-top {
   background-color: #add8e6;
@@ -25,20 +26,20 @@
 
 .logo {
   width: 200px;
-  border: 1px dashed black;
+  border: 2px dashed black;
   padding: 5px;
 }
 
 .link {
   width: 600px;
-  border: 1px dashed black;
+  border: 2px dashed black;
   text-align: center;
   padding: 5px;
 }
 
 .login {
   width: 200px;
-  border: 1px dashed black;
+  border: 2px dashed black;
   text-align: end;
   padding: 5px;
 }
@@ -47,9 +48,26 @@
 /* header-bottom */
 .header-bottom {
   display: flex;
-  background-color: #ee82ee;
-  justify-content: center;
+  background-color: #00008b;
 }
 /* header-bottom */
 
 /* section-bottom */
+.sezione-bottom {
+  height: 400px;
+  display: flex;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.rettangolo-rosa {
+  margin: 20px auto;
+  width: 700px;
+  height: 300px;
+  border: 2px dashed black;
+  background-color: #ee82ee;
+}
+/* section-bottom */
+/* HEADER */
+
+/* MAIN */
