@@ -100,5 +100,13 @@
 }
 /* Section-1 */
 
+/* section-2 */
+.main-2 {
+  background-color: #d3d3d3;
+}
+
 .section-2 {
+  display: flex;
+  width: 800px;
+  justify-content: flex-end;
 }
